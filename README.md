@@ -37,7 +37,6 @@
 </table>
 
 <br/>
-<br/>
 
 ### 🏆 Solved.ac
 
