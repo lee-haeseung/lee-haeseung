@@ -41,8 +41,8 @@
 ### 💻 GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lee-haeseung&show_icons=true&theme=radical" height="180px" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lee-haeseung&layout=compact&theme=onedark" height="180px" alt="Top Langs" />
+  ![Haeseung's GitHub stats](https://github-readme-stats.vercel.app/api?username=lee-haeseung&show_icons=true&theme=radical)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lee-haeseung&layout=donut)](https://github.com/lee-haeseung)
 </div>
 
 <br/>
