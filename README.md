@@ -40,12 +40,10 @@
 
 ### 💻 GitHub
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=lee-haeseung&show_icons=true&theme=radical" alt="Hae-seung's GitHub stats"/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lee-haeseung&layout=compact&theme=onedark" alt="Top Langs"/>
-</a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lee-haeseung&show_icons=true&theme=radical" height="180px" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lee-haeseung&layout=compact&theme=onedark" height="180px" alt="Top Langs" />
+</div>
 
 <br/>
 <br/>
